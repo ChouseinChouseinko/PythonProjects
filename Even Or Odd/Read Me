@@ -1,0 +1,24 @@
+In this script you can add and check for the numbers if they are even or odd numbers.
+For Example when you start the script it prints a menu to select from 1 to 5 one number.
+===== MENU =====
+1. Add and check numbers
+2. See all batches
+3. See stats
+4. Save to CSV
+5. Exit
+If you select the number one then the script will ask you to enter numbers seperated by commas.
+When you enter some numbers then the script will show you which numbers are even and which are odd numbers.
+Afer that the menu will be printed again and if you enter the number 2 then you will see all the batches.
+In the number 3 we have the stats, For example the stats will look like this:
+===== STATISTICS =====
+Total numbers entered: 5
+Even numbers: 2
+Odd numbers: 3
+Highest even number: 4
+Lowest even number: 2
+Highest odd number: 5
+Lowest odd number: 1
+=======================
+In the number 4 we have the option to save the numbers in csv mode.When we enter the number 4 our script will request from you to enter a name for your csv file in order to create and save the numbers in the csv file.
+And the last one is the Exit.
+It was a simple script with different options.I will try to add new things in this script to be more usefull.
