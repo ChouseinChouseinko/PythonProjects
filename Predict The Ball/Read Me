@@ -1,0 +1,21 @@
+What we did in this script?
+We created one of the most known games in the world (Three Cups) with Python.
+At the beggining of the script when you run the script you will get this message :
+--- 🎲 Welcome to 'Find the Ball' Game! 🎲 ---
+and the script will ask you to enter one amount in order to place a bet: 
+How much you will bet? 
+After you give to the script an int number then it will ask from you to predict in which cup is the ball.
+User can select 0 or 1 or 2 to predict the ball.
+If user predicts the correct cup then the script will show you this message: 
+Correct, you are lucky
+You won: 2$
+
+Do you want to play again? (yes/no):
+If you select yes then you will play again the game.Otherwise the script will show you this message and the script will stop:
+Thanks for playing! 👋
+If user don't predict the correct cup then he/she will get this message:
+Good luck in next round 
+['O', '', '']
+
+Do you want to play again? (yes/no):
+After this it is the same from line 14 till 15.
